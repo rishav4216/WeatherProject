@@ -4,6 +4,7 @@ The website has 1 main page. Upon entering the site, the user is greeted with a 
 
 ➡️ The website is designed in such a way that it displays the temperature,min_temperature,max_temperature,Feels_like humidity,wind speed,sunrise time,sunset time of the city and the wind degrees of the climate❗
 
+
 ➡️ The homepage have 1 search bars for countries and cities❗
 ### About-
 This is a simple weather website.
