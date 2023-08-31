@@ -9,4 +9,5 @@ The website has 1 main page. Upon entering the site, the user is greeted with a 
 ### About-
 This is a simple weather website.
 website that provides up to date information about the weather helps you to take well-read decisions
+
 Pure HTML,JavaScript used.
