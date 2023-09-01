@@ -11,3 +11,7 @@ This is a simple weather website.
 website that provides up to date information about the weather helps you to take well-read decisions
 ### Language
 Pure HTML,JavaScript used.
+
+### Building a WeatherProject
+
+
