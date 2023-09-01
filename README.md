@@ -12,6 +12,9 @@ website that provides up to date information about the weather helps you to take
 ### Language
 Pure HTML,JavaScript used.
 
-### Building a WeatherProject
+### WeatherSnap
+![image](https://github.com/rishav4216/WeatherProject/assets/100671552/31571138-42c9-41c5-ae68-8660942be8c0)
+
+
 
 
